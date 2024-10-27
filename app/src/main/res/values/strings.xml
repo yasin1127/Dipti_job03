@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationSharingApp_Dipti_ICT_AMAD_L4_04-11</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_dipti_ict_amad_l40411">MapsActivity_dipti_ict_amad_l4_04_11
+    </string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close\n</string>
+</resources>
